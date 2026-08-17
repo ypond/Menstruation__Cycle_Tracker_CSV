@@ -2,5 +2,6 @@
 
    ## Description
 
-    This program is my first own project: you can track and analyse your menstruation cycle.
+    This program is my first own python project - a menstruation cycle tracker: 
+    You can track your menstruation cycle by date and analyze the data that was put in. 
    
